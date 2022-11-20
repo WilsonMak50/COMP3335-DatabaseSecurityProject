@@ -10,7 +10,7 @@ This is a online game purchase plaform applied in LAMP stack
 
 4. Type localhost in browser to see the website 
 
-5. Type localhost:80 to access myPhpAdmin
+5. Type localhost:80 to access phpMyAdmin
 
 Demonstration: 
 https://youtu.be/Eb78rAA1BRM
